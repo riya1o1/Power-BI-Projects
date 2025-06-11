@@ -18,79 +18,30 @@ Each project includes:
 **Overview**:  
 Analyzed a retail company's sales performance across different regions and product categories.
 
-**Key Features**:
-📊 Sales Data Analysis Dashboard
-The dashboard includes visual insights on key business metrics such as sales, profit, quantity sold, and discounts across products, time, and geography.
+## 🔍 Key Insights
 
-✅ Key Features:
-Top/Bottom 5 Products
+1. **Top/Bottom 5 Products** by Sales, Profit, and Quantity Sold  
+![Top and Bottom 5](https://github.com/user-attachments/assets/c308b896-f43c-4e7a-a2cb-1ec4bb67b949)
 
-Visuals showing Top & Bottom 5 Products by:
+2. **Sales Trends** over Daily, Monthly, Quarterly, and Yearly periods  
+3. **Sales vs Profit** visual relationship   
+4. **Average Discounts** by category  
+5. **Total Number of Orders**  
+6. **Sales by City** using map and charts
+![Overview](https://github.com/user-attachments/assets/bebc5cfd-770c-453a-becd-3c6c06580336)
 
-🔹 Sales
+7. **Comparison** of Sales/Profit/Quantity between two selected periods
+![Filter](https://github.com/user-attachments/assets/8fc2e417-4cbf-415a-9666-cc9a86eaca66)
 
-🔹 Profit
-
-🔹 Quantity Sold
-
-Sales Trends Over Time
-
-Dynamic charts that analyze sales performance on:
-
-Daily
-
-Monthly
-
-Quarterly
-
-Yearly basis
-
-Powered by time intelligence using DAX.
-
-Sales vs Profit Relationship
-
-A scatter plot visual to explore correlation between sales and profit per product/category.
-
-Period Comparison
-
-Allows user to select any two time periods (e.g., Q1 vs Q3 or Jan vs Jun) and compare:
-
-Sales
-
-Profit
-
-Quantity Sold
-
-Average Discount by Category
-
-Average discount rates across different discount slabs and promotion types.
-
-Total Orders Count
-
-KPI card showing the total number of orders placed during the dataset time frame.
-
-Detailed Order Table
-
-A table with:
-
-Sales, Profit, Discount, Net Sales, etc.
-
-Fully interactive and filterable by:
-
-Product
-
-Date
-
-Customer ID
-
-Promotion Categories
-
-City-wise Sales Analysis
-
-Geo map and bar chart highlighting sales across different cities.
+8. **Detailed Order View** filterable by Product, Date, Customer ID, and Promotion
+![Filter 2](https://github.com/user-attachments/assets/fb6d3a89-d975-4dbb-81bb-4f7771b94314)
 
 ---
+## 🛠 Tools
 
+Power BI, DAX, Power Query, Relationships, Slicers
+
+---
 ### 🚀 More Dashboards Coming Soon!
 
 Stay tuned for upcoming Power BI projects, including:
