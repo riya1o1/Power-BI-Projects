@@ -19,14 +19,75 @@ Each project includes:
 Analyzed a retail company's sales performance across different regions and product categories.
 
 **Key Features**:
-- Monthly revenue and profit trends
-- Top-performing products
-- Regional sales comparison
-- Customer segmentation
+📊 Sales Data Analysis Dashboard
+The dashboard includes visual insights on key business metrics such as sales, profit, quantity sold, and discounts across products, time, and geography.
 
-📁 [`Sales-Data-Analysis`](./Sales-Data-Analysis)  
-📷 Dashboard Screenshot  
-🧠 Tools Used: Power Query, DAX, Relationships, Slicers
+✅ Key Features:
+Top/Bottom 5 Products
+
+Visuals showing Top & Bottom 5 Products by:
+
+🔹 Sales
+
+🔹 Profit
+
+🔹 Quantity Sold
+
+Sales Trends Over Time
+
+Dynamic charts that analyze sales performance on:
+
+Daily
+
+Monthly
+
+Quarterly
+
+Yearly basis
+
+Powered by time intelligence using DAX.
+
+Sales vs Profit Relationship
+
+A scatter plot visual to explore correlation between sales and profit per product/category.
+
+Period Comparison
+
+Allows user to select any two time periods (e.g., Q1 vs Q3 or Jan vs Jun) and compare:
+
+Sales
+
+Profit
+
+Quantity Sold
+
+Average Discount by Category
+
+Average discount rates across different discount slabs and promotion types.
+
+Total Orders Count
+
+KPI card showing the total number of orders placed during the dataset time frame.
+
+Detailed Order Table
+
+A table with:
+
+Sales, Profit, Discount, Net Sales, etc.
+
+Fully interactive and filterable by:
+
+Product
+
+Date
+
+Customer ID
+
+Promotion Categories
+
+City-wise Sales Analysis
+
+Geo map and bar chart highlighting sales across different cities.
 
 ---
 
