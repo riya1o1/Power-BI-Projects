@@ -46,4 +46,12 @@ Power BI, DAX, Power Query, Relationships, Slicers
 
 Stay tuned for upcoming Power BI projects, including:
 - UPI Transaction Analysis  
-- Insurance Claims Dashboard  
+- Insurance Claims Dashboard
+---
+## 📫 Contact
+
+**Riya Singh**  
+📧 mailriya1o1@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/riya1o1)
+
+⭐ *Star this repo to support and stay updated!*
