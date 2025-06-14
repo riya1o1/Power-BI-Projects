@@ -50,7 +50,35 @@ Power BI, DAX, Power Query, Relationships, Slicers
 
 This project focuses on analyzing insurance claim data using interactive dashboards in Power BI. The analysis covers metrics such as claim approval rates, fraud detection, policy type performance, and customer demographics.
 
-📌 **Details and dashboards will be uploaded soon. Stay tuned!**
+## 🔍 Key Insights
+
+1. **Full customer base (10,000+ records)**
+2. **Gender distribution**
+3. **Premium, Coverage, Claim amounts**
+4. **Status breakdown: Rejected, Settled, Pending**
+5. **Customer activity insights (Active vs Inactive)**
+6. **Claims by Age Group for demographic impact.**
+7. **Claim Status Breakdown**
+
+![image](https://github.com/user-attachments/assets/b2e60529-f8f9-4cf9-b274-ef5ce50576f2)
+
+8.**Auto Policy Drillthrough**
+
+![image](https://github.com/user-attachments/assets/f45c70f5-f09d-4af0-8c24-7af7abe489a2)  ![image](https://github.com/user-attachments/assets/db48b122-70fb-4cca-bda9-f42dec6e7902)
+
+Impact on page2:
+
+![image](https://github.com/user-attachments/assets/0c725352-bb1b-4cc9-8834-0434ebfc5544)
+
+This dashboard is a drillthrough page filtered on a specific value, likely PolicyType = Auto.
+
+9.**Feedback Analysis**
+
+![image](https://github.com/user-attachments/assets/3c86d307-aab4-48cd-9890-01c7066d393a)
+
+## 🛠 Tools
+Power BI, Power Query, Drillthroughs
+
 
 ---
 ### 🚀 More Dashboards Coming Soon!
