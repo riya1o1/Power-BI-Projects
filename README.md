@@ -40,7 +40,6 @@ Analyzed a retail company's sales performance across different regions and produ
 
 ![Filter 2](https://github.com/user-attachments/assets/fb6d3a89-d975-4dbb-81bb-4f7771b94314)
 
----
 ## 🛠 Tools
 
 Power BI, DAX, Power Query, Relationships, Slicers
