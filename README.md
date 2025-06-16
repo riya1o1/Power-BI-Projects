@@ -47,7 +47,7 @@ Power BI, DAX, Power Query, Relationships, Slicers
 ---
 # 🛡️ Insurance Claims Analysis – Power BI Dashboard
 
-This project focuses on analyzing insurance claim data using interactive dashboards in Power BI. The analysis covers metrics such as claim approval rates, fraud detection, policy type performance, and customer demographics.
+This dashboard provides a high-level overview of the entire insurance customer base. It highlights key metrics such as total premiums, coverage amounts, claim status distribution, customer demographics, and claim trends across age groups. It serves as the entry point for deeper insights through drillthroughs.
 
 ## 🔍 Key Insights
 
