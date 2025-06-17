@@ -45,7 +45,7 @@ Analyzed a retail company's sales performance across different regions and produ
 Power BI, DAX, Power Query, Relationships, Slicers
 
 ---
-### Insurance Claims Analysis – Power BI Dashboard
+### 2. Insurance Claims Analysis
 
 This dashboard provides a high-level overview of the entire insurance customer base. It highlights key metrics such as total premiums, coverage amounts, claim status distribution, customer demographics, and claim trends across age groups. It serves as the entry point for deeper insights through drillthroughs.
 
