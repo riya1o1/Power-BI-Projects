@@ -82,10 +82,10 @@ Power BI, Power Query, Drillthroughs
 
 ---
 
-### 1. Sales Data Analysis
+### 3. UPI Transaction Analysis
 
 **Overview**:  
-Analyzed a retail company's sales performance across different regions and product categories.
+The UPI Transaction Analysis Dashboard is a comprehensive Power BI project that explores digital payment trends in India for the year 2024. It visualizes monthly UPI transactions and balances across major cities like Mumbai, Delhi, Bangalore, and Hyderabad, and allows users to filter data by various parameters such as bank names, cities, devices, genders, age groups, payment methods, and merchants.
 
 ## 🔍 Key Insights
 1. **Balance by Month: Peak in June, dip in April. Balance stabilizes from August to November.**
