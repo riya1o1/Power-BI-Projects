@@ -81,10 +81,29 @@ Power BI, Power Query, Drillthroughs
 
 
 ---
-### 🚀 More Dashboards Coming Soon!
 
-Stay tuned for upcoming Power BI projects, including:
-- UPI Transaction Analysis  
+### 1. Sales Data Analysis
+
+**Overview**:  
+Analyzed a retail company's sales performance across different regions and product categories.
+
+## 🔍 Key Insights
+1.**Balance by Month: Peak in June, dip in April. Balance stabilizes from August to November.**
+2.**Transactions by Month: Highest in May (~1.71M), low in March & July. Festival spike in October.**
+3.**Line vs Column Charts: Both confirm steady growth in mid-year and slight dip at year-end.**
+
+![image](https://github.com/user-attachments/assets/b835b3de-dfe0-48c6-9163-5d848753d00c)
+
+4.**City-wise Transaction Table**
+-Mumbai: Highest UPI activity, especially in May & April.
+-Delhi: Stable balance (~8.5M), active in June & October.
+-Hyderabad: Consistent balance, key months: March & June.
+-Bangalore: Fluctuating amounts, balance steady around 8.3M.
+
+![image](https://github.com/user-attachments/assets/cc1ca539-1875-4101-9b6e-43da4e7496bb)
+
+## 🛠 Tools
+Power BI, Power Query, Drillthroughs
 
 ---
 ## 📫 Contact
